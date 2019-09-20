@@ -1,7 +1,9 @@
+Instructions for Installing Epiviz as an Interactive Environment on on Galaxy
+
 # Galaxy Configuration
 
-This folder should be placed in `$GALAXY/config/plugins/interactive_environments/helloworld/`. You can use the following command to do so.
+This folder should be placed in `$GALAXY/config/plugins/interactive_environments/epiviz/`. You can use the following command to do so.
 
 ```sh
-cp ./galaxy-conf $GALAXY/config/plugins/interactive_environments/helloworld/ -r
+cp -r ./ $GALAXY/config/plugins/interactive_environments/epiviz
 ```
