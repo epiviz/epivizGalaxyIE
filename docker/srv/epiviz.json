@@ -1,0 +1,14 @@
+[
+    {
+        "url": "http://obj.umiacs.umd.edu/bigwig-files/38768.bigwig",
+        "file_type": "bigwig",
+        "datatype": "bp",
+        "name": "38768",
+        "id": "38768",
+        "annotation": {
+            "group": "38768",
+            "type": "expression"
+        },
+        "metadata": []
+    }
+]
